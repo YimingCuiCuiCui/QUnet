@@ -23,6 +23,6 @@ QUNet  |- | **0.9908** | 0.9912 | **0.9985** | **0.9974** | 0.9915 | **0.9974**
 
 
 #### Lung Segmentation results
-![Lung Segmentation result](https://github.com/YimingCuiCuiCui/QUnet/tree/main/Lung_Segmentation/sample_results.png)
+[Lung Segmentation result](https://github.com/YimingCuiCuiCui/QUnet/tree/main/Lung_Segmentation/sample_results.png)
 
 
