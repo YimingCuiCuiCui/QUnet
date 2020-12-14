@@ -26,3 +26,4 @@ QUNet  |- | **0.9908** | 0.9912 | **0.9985** | **0.9974** | 0.9915 | **0.9974**
 [Lung Segmentation result](https://github.com/YimingCuiCuiCui/QUnet/tree/main/Lung_Segmentation/sample_results.png)
 
 
+Applications of paper Quadratic Autoencoder (Q-AE) for Low-Dose CT Denoising (https://ieeexplore.ieee.org/document/8946589)
